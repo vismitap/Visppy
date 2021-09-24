@@ -1,0 +1,15 @@
+{
+  "name": "visppy",
+  "version": "1.0.0",
+  "description": "This is a website for shopping",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "scss": "node-sass -o css/ css/"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "node-sass": "^5.0.0"
+  }
+}
