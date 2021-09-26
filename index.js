@@ -8,7 +8,7 @@ let configSawo = {
     apiKey: "78a54f45-e2a2-40cc-a9c8-8d5ae3f10523",
     // Add a callback here to handle the payload sent by sdk
     onSuccess: (payload) => {
-        window.location.href = "index.html";
+        window.location.href = "home.html";
         console.log(payload)
     },
 };
